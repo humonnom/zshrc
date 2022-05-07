@@ -29,7 +29,6 @@ alias gb='git branch'
 # alias norm&gcc
 alias nn="norminette -R CheckForbiddenSourceHeader"
 alias cc="gcc -Werror -Wall -Wextra"
-alias cl="clear"
 export PATH=$HOME/.brew/bin:$PATH
 export NAME="juepark"
 export MAIL="juepark@student.42seoul.kr"
